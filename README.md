@@ -87,7 +87,6 @@ System.out.println(college);
 ## 👨‍💻 Authors
 
 * **Itamar Cohen**
-* **Ben Salman**
 
 ---
 
